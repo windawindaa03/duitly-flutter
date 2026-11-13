@@ -1,0 +1,19 @@
+# Flutter-related
+**/Flutter/ephemeral/
+**/Pods/
+
+# Xcode-related
+**/dgph
+**/xcuserdata/
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
